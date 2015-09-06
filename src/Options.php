@@ -12,6 +12,8 @@
 namespace PanWPCoreExample;
 
 
+use PanWPCore\Dumper;
+
 class Options extends \PanWPCore\Options{
 	/**
 	 * @var string
